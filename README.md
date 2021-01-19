@@ -1,0 +1,2 @@
+# TypeScriptMinusMinus
+[UNDER DELAYED CONSTRUCTION] Better check out github.com/novusnota/JavaScriptMinusMinus. ||| TypeScriptMinusMinus (TypeScript-- or ts--) is a super simple programming tool for beginners and also an educational programming language. The perfect way to jump-start learning JavaScript. It teaches basic programming concepts, common to many languages and, specifically, common for TypeScript. For the complete newbies, very novice-friendly blush
